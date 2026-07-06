@@ -3,39 +3,33 @@
 Schlanke Bestellaufnahme-App für Restaurant Meteora.
 
 ## Enthalten
-- Tische anlegen, bearbeiten, löschen
-- Frei/Besetzt, Gästeanzahl
-- Bestellaufnahme mit Hauptgruppen, Untergruppen und Artikeln
-- Suche, Mengen, Bemerkungen, Sonstiges
-- Letzte Aktion zurück / Wiederherstellen
-- Admin-Bereich mit PIN
-- Backup exportieren und importieren
-- PWA/Offline über GitHub Pages
+- Bereiche: Innen, Außen, Außer Haus, Saal
+- Standardtische: Innen 1-10, Außen 20-40 + 223, Außer Haus 50, Saal 100-140
+- Bestellaufnahme pro Gerät, ohne Cloud und ohne Live-Synchronisation
+- Hauptgruppen, Untergruppen und Artikel
+- Info-Button pro Artikel für Inhalt, Beilagen, Allergene und Zusatzstoffe
+- Freie Bemerkung pro Artikel
+- Sonstiges als freier Eintrag
+- Admin mit PIN, Standard-PIN: 1234
+- Design-Einstellungen für Farben, Schriftgröße und Tischgröße
+- Backup/Import
+- PWA und Offline-Cache für GitHub Pages
 
 ## Nicht enthalten
 - Rechnung
+- Kasse
 - Tagesabschluss
 - Statistik
 - CSV
 - Küchenmodus
-- Cloud oder Live-Synchronisation
+- Cloud / Live-Synchronisation
 
-## Admin-PIN
-Standard: `1234`
+## Installation auf GitHub Pages
+1. ZIP entpacken.
+2. Den gesamten Inhalt des Ordners in das Repository hochladen.
+3. Settings -> Pages -> Deploy from branch -> main -> / root auswählen.
+4. Link auf dem iPhone in Safari öffnen.
+5. Teilen -> Zum Home-Bildschirm.
 
-Bitte nach dem ersten Start im Admin-Bereich ändern.
-
-## GitHub Pages
-ZIP entpacken und alle Dateien aus dem Ordner in das Repository hochladen:
-
-- index.html
-- style.css
-- app.js
-- manifest.json
-- service-worker.js
-- icon-192.png
-- icon-512.png
-- README.md
-- CHANGELOG.md
-
-Danach GitHub Pages auf `main` und `/root` aktivieren.
+## Nutzung
+Jedes Gerät speichert lokal. Der Mitarbeiter nimmt die Bestellung auf, tippt sie in die Kasse ein und leert danach den Tisch in der App.

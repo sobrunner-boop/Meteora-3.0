@@ -1,16 +1,21 @@
-# Testprotokoll – Meteora Order 3.0 Final
+# Testprotokoll - Meteora Order 3.0 Final
 
 ## Prüfpunkte
-- App öffnet mit Tischübersicht.
-- Tisch öffnen und Gästezahl ändern.
-- Artikel aus Hauptgruppe/Untergruppe hinzufügen.
-- Suche testen.
-- Menge erhöhen/verringern.
-- Bemerkung hinzufügen.
+- App über GitHub Pages öffnen.
+- Bereich Innen öffnen und Tisch 1 antippen.
+- Gästeanzahl ändern.
+- Artikel aus Speisen hinzufügen.
+- Artikel aus Getränke hinzufügen.
+- Info-Button bei einem Artikel öffnen.
+- Freie Bemerkung hinzufügen.
 - Sonstiges hinzufügen.
-- Letzte Aktion zurück / Wiederherstellen testen.
-- Tisch leeren testen.
+- Menge erhöhen und verringern.
+- Letzte Position zurücknehmen und wiederherstellen.
+- Tisch leeren.
 - Admin mit PIN 1234 öffnen.
-- Tisch, Gruppe, Untergruppe und Artikel anlegen/bearbeiten/löschen.
-- Backup exportieren und wieder importieren.
-- GitHub Pages öffnen und PWA zum Home-Bildschirm hinzufügen.
+- Artikel bearbeiten und speichern.
+- Farben/Schriftgröße im Design ändern.
+- Backup exportieren.
+- Backup importieren.
+- App neu laden und prüfen, ob Daten erhalten bleiben.
+- iPhone: Safari -> Teilen -> Zum Home-Bildschirm testen.
