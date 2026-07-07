@@ -1,11 +1,10 @@
-# TESTPROTOKOLL v0.2
+# TESTPROTOKOLL v0.3
 
-- Bereiche prüfen.
+- App öffnen.
 - Tisch öffnen.
-- Artikel hinzufügen.
-- Info öffnen.
-- Bemerkung speichern.
-- Sonstiges hinzufügen.
-- Admin mit PIN 1234 öffnen.
-- Artikel bearbeiten.
-- Backup exportieren/importieren.
+- Links müssen Speisen/Getränke sichtbar sein.
+- Untergruppen müssen sichtbar sein.
+- Admin öffnen.
+- Hauptgruppen öffnen.
+- Untergruppen öffnen.
+- Gruppe aktiv/inaktiv testen.

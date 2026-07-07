@@ -1,7 +1,9 @@
 # CHANGELOG
 
+## v0.3
+- Fehler behoben: Hauptgruppen/Untergruppen fehlten links bei alten gespeicherten Daten.
+- Admin erweitert: Hauptgruppen und Untergruppen als eigene Menüpunkte.
+- Automatische Datenreparatur für Artikel ohne Gruppenzuordnung.
+
 ## v0.2
-- Admin erweitert: Bereiche/Tische, Speisekarten-Editor und Design-Einstellungen.
-- Artikelnummern sichtbar.
-- Info-Button und freie Bemerkung.
-- Kein sichtbarer Admin-Button im Service.
+- Admin, Speisekarte, Design, Backup/Import.

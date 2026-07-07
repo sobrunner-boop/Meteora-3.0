@@ -1,7 +1,11 @@
-# Meteora Order 3.0 v0.2
+# Meteora Order 3.0 v0.3
 
-Schlanke Bestellaufnahme für Restaurant Meteora.
+Korrektur: Hauptgruppen/Untergruppen werden wieder angezeigt, auch bei alten gespeicherten Daten.
 
-Admin öffnen: Logo 5× tippen oder lange drücken. PIN: `1234`.
+Neu:
+- Admin-Menü mit eigenen Buttons für Hauptgruppen und Untergruppen.
+- Hauptgruppen aktiv/inaktiv, bearbeiten, löschen.
+- Untergruppen aktiv/inaktiv, bearbeiten, löschen.
+- Alte Artikel ohne Gruppenzuordnung werden automatisch Speisen/Allgemein zugeordnet.
 
-Enthalten: Bereiche/Tische, Bestellung, Artikelnummern, Info-Button, freie Bemerkung, Sonstiges, Admin, Design, Backup/Import, PWA.
+Admin: Logo 5× tippen oder lange drücken, PIN `1234`.
