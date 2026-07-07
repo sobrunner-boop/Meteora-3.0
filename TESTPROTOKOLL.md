@@ -1,14 +1,11 @@
-# TESTPROTOKOLL
+# TESTPROTOKOLL v0.2
 
-- App öffnen
-- Bereich wählen
-- Tisch öffnen
-- Artikel hinzufügen
-- Info-Button prüfen
-- Bemerkung hinzufügen
-- Sonstiges hinzufügen
-- Tisch leeren
-- Admin mit PIN 1234 öffnen
-- Artikel bearbeiten
-- Design ändern
-- Backup exportieren/importieren
+- Bereiche prüfen.
+- Tisch öffnen.
+- Artikel hinzufügen.
+- Info öffnen.
+- Bemerkung speichern.
+- Sonstiges hinzufügen.
+- Admin mit PIN 1234 öffnen.
+- Artikel bearbeiten.
+- Backup exportieren/importieren.

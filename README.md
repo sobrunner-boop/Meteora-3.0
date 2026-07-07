@@ -1,11 +1,7 @@
-# Meteora Order 3.0 Final
+# Meteora Order 3.0 v0.2
 
-Schlanke Bestellaufnahme-App für Restaurant Meteora. Keine Kasse, keine Rechnung, keine Statistik.
+Schlanke Bestellaufnahme für Restaurant Meteora.
 
-## Nutzung
-1. ZIP entpacken.
-2. Alle Dateien in GitHub hochladen.
-3. GitHub Pages aktivieren: main / root.
-4. Link in Safari öffnen und „Zum Home-Bildschirm“ wählen.
+Admin öffnen: Logo 5× tippen oder lange drücken. PIN: `1234`.
 
-Standard-PIN: `1234`
+Enthalten: Bereiche/Tische, Bestellung, Artikelnummern, Info-Button, freie Bemerkung, Sonstiges, Admin, Design, Backup/Import, PWA.
