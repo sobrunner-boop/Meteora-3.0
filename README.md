@@ -1,11 +1,5 @@
-# Meteora Order 3.0 v0.3
+# Meteora Order 3.0 v0.4
 
-Korrektur: Hauptgruppen/Untergruppen werden wieder angezeigt, auch bei alten gespeicherten Daten.
+Neu: Beim Öffnen eines Tisches sind die Untergruppen direkt unter der aufgeklappten Hauptgruppe sichtbar. Die separate Untergruppen-Box entfällt.
 
-Neu:
-- Admin-Menü mit eigenen Buttons für Hauptgruppen und Untergruppen.
-- Hauptgruppen aktiv/inaktiv, bearbeiten, löschen.
-- Untergruppen aktiv/inaktiv, bearbeiten, löschen.
-- Alte Artikel ohne Gruppenzuordnung werden automatisch Speisen/Allgemein zugeordnet.
-
-Admin: Logo 5× tippen oder lange drücken, PIN `1234`.
+Admin-PIN: 1234

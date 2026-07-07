@@ -1,10 +1,9 @@
-# TESTPROTOKOLL v0.3
+# TESTPROTOKOLL v0.4
 
-- App öffnen.
 - Tisch öffnen.
-- Links müssen Speisen/Getränke sichtbar sein.
-- Untergruppen müssen sichtbar sein.
-- Admin öffnen.
-- Hauptgruppen öffnen.
-- Untergruppen öffnen.
-- Gruppe aktiv/inaktiv testen.
+- Links Hauptgruppe Speisen öffnen.
+- Untergruppen erscheinen darunter.
+- Untergruppe wählen.
+- Artikel werden rechts angezeigt.
+- Neue Untergruppe im Admin anlegen und Seite neu laden.
+- Prüfen, ob die Untergruppe unter der Hauptgruppe erscheint.

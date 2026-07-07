@@ -1,9 +1,8 @@
 # CHANGELOG
 
-## v0.3
-- Fehler behoben: Hauptgruppen/Untergruppen fehlten links bei alten gespeicherten Daten.
-- Admin erweitert: Hauptgruppen und Untergruppen als eigene Menüpunkte.
-- Automatische Datenreparatur für Artikel ohne Gruppenzuordnung.
-
-## v0.2
-- Admin, Speisekarte, Design, Backup/Import.
+## v0.4
+- Neue Bestellnavigation: Hauptgruppe aufklappen, Untergruppen direkt darunter.
+- Separate Untergruppen-Box entfernt.
+- Neue Untergruppen aus dem Admin erscheinen automatisch unter der zugehörigen Hauptgruppe.
+- Admin-Menü enthält Hauptgruppen und Untergruppen.
+- Datenmigration aus älteren lokalen Versionen.
